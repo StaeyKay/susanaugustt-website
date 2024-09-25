@@ -37,10 +37,10 @@ const Tracks = () => {
 
         {/* Social Media Icons */}
         <div className="flex gap-3 justify-center md:justify-end">
-          <FiYoutube size={30} />
-          <FaSpotify size={30} />
-          <SiApplemusic size={30} />
-          <FaBandcamp size={30} />
+          <a href="https://www.youtube.com/watch?v=ZOsxb5kt8wI" target='blank'> <FiYoutube size={30} /></a>
+          <a href="https://open.spotify.com/album/7dReE7L2OUuf0mhyNZyg9l" target='blank'><FaSpotify size={30} /></a>
+          <a href="https://music.apple.com/us/artist/susan-augustt/"><SiApplemusic size={30} /></a>
+          <a href="https://susanaugustt.bandcamp.com/album/effects-ep"><FaBandcamp size={30} /></a>
         </div>
       </div>
 
@@ -66,10 +66,10 @@ const Tracks = () => {
 
         {/* Right Side: Social Media Icons */}
         <div className="flex gap-3 justify-center md:justify-end">
-          <FiYoutube size={30} />
-          <FaSpotify size={30} />
-          <SiApplemusic size={30} />
-          <FaBandcamp size={30} />
+          <a href="https://www.youtube.com/watch?v=7eRfcCh4s2c" target='blank'><FiYoutube size={30} /></a>
+          <a href="https://open.spotify.com/album/7dReE7L2OUuf0mhyNZyg9l" target='blank'><FaSpotify size={30} /></a>
+          <a href="https://music.apple.com/us/artist/susan-augustt/"><SiApplemusic size={30} /></a>
+          <a href="https://susanaugustt.bandcamp.com/album/effects-ep"><FaBandcamp size={30} /></a>
         </div>
       </div>
     </div>
