@@ -140,7 +140,7 @@ const Navbar = () => {
 
       {/* Mobile Menu */}
       {isOpen && (
-        <div className="absolute top-16 left-0 right-0 bg-gray-900 text-white flex flex-col items-center py-4 z-50">
+        <div className="absolute top-16 right-0 bg-[#EEEEEE] w-[60%] text-gray-900 flex flex-col items-center py-4 z-50">
           {/* Mobile Menu Links */}
           <ul className="flex flex-col items-center gap-4 text-center">
             <li>
